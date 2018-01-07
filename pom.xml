@@ -30,11 +30,6 @@
 					</executions>
 					<configuration>
 						<mainClass>com.skybet.test.processor.mqconsumer.Boot</mainClass>
-						<arguments>
-							<argument>192.168.1.234</argument>
-							<argument>27017</argument>
-							<argument>5672</argument>
-						</arguments>
 					</configuration>
 				</plugin>
 			</plugins>
